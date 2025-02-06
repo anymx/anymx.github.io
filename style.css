@@ -1,0 +1,50 @@
+body{
+    color:rgb(199, 231, 253);
+    background-color: rgb(255, 255, 255);
+    background-image: url(Zvezdnoe-nebo.jpg);
+    background-size: cover;
+    text-align: center;
+    
+}
+    .logo{
+        width: 100px;
+        box-shadow: 5px 10px 15px rgb(143, 143, 255);
+    }
+    .logo:hover{
+        width: 150px;
+    }
+    .poss{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 40px;
+        color:cornflowerblue;
+        text-shadow: 5px 10px 15px darkblue;
+    }
+    .poss:hover{
+        color:rgb(0, 255, 255);
+    }
+    
+
+.desk_os{
+    border: 7px solid blueviolet;
+    border-radius: 40px;
+    background-color: rgba(71, 68, 71, 0.678);
+    box-shadow: 10px 20px 25px;
+    width: 30%;
+    
+    
+}
+.mob_os{
+    border: 7px solid rgb(157, 91, 218);
+    border-radius: 40px;
+    background-color: rgba(87, 83, 87, 0.541);
+    box-shadow: 10px 20px 25px;
+    width: 40%;
+}
+.lolo{
+    border: 7px solid rgb(176, 99, 248);
+    border-radius: 40px;
+    background-color: rgba(0, 0, 0, 0.884);
+    box-shadow: 10px 20px 25px;
+    width: 50%;
+
+}
